@@ -8,12 +8,12 @@ body {
     font-family: 'Patrick Hand', cursive;
 }
 
-.triviaHeader {
-    
+.header {
     text-decoration: underline;
     font-size: 50px;
     font-family: 'Patrick Hand', cursive;
     text-align: center;
+    text-shadow: grey;
 }
 
 #doneGame, #startGame {
@@ -23,5 +23,5 @@ body {
 
 #timer{
     color: #FFFF00;
-    text-shadow: grey;
+    /* text-shadow: grey; */
 }
